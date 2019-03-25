@@ -2,3 +2,4 @@
 
 print('hello')
 print('nihao')
+print('hi')
