@@ -2,4 +2,3 @@
 
 A = 'nihao'
 B = 'nihaoYA'
-D = 'CONFLICT'
