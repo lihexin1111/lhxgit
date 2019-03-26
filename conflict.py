@@ -2,3 +2,4 @@
 
 A = 'nihao'
 B = 'nihaoYA'
+print(A)
