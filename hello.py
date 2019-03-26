@@ -2,4 +2,5 @@
 
 print('hello')
 print('nihao')
-print('conflict1')
+A = '你好'
+print(A)
