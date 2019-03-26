@@ -2,3 +2,4 @@
 
 A = 'hi'
 B = 'hihi'
+C = 'hi'
