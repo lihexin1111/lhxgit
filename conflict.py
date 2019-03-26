@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
 
 A = 'nihao'
-B = 'hi'
-C = 'hello'
+print(A)
+print('S')
