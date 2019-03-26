@@ -2,5 +2,5 @@
 
 A = 'nihao'
 print(A)
-B = 'nihao'
+B = 'nihaoYA'
 print(B)
