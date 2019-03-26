@@ -2,3 +2,5 @@
 
 A = 'nihao'
 print(A)
+B = 'hi'
+print(B)
