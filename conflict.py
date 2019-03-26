@@ -1,4 +1,4 @@
 # -*- coding:utf-8 -*-
 
 A = 'hi'
-B = 'hello'
+B = 'hi'
