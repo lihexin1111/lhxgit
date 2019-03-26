@@ -1,2 +1,0 @@
-# lhxgit
-print
