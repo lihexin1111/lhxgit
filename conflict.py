@@ -3,3 +3,4 @@
 A = 'hihi'
 D = 'HIO'
 Y = 'Y'
+H = 'H'
