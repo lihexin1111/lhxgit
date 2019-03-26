@@ -2,5 +2,4 @@
 
 print('hello')
 print('nihao')
-print('branch1')
-print('branch2')
+print('conflict1')
